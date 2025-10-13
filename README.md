@@ -1,3 +1,4 @@
 <div style="width:120%; overflow:hidden; border-radius:120%;">
-  <img src="https://imgur.com/gallery/kaoruko-waguri-VTWgQrg#J8bVtPH" width="100%" />
+  <img src="![Kaoruko GIF (1)](https://github.com/user-attachments/assets/53a98363-d10b-4da1-9cc8-c3c893746b15)
+" width="100%" />
 </div>
