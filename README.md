@@ -1,4 +1,4 @@
 <div style="width:120%; overflow:hidden; border-radius:120%;">
-  <img src="![Kaoruko GIF (1)]https://github.com/user-attachments/assets/53a98363-d10b-4da1-9cc8-c3c893746b15.gif
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE1aTYwcGwwamxlcDFldTM2Nnp3MWQ3bzlsN3E2dzgxaDljYXVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mmTryQtQnk57B3PhkG/giphy.gif
 " width="100%" />
 </div>
