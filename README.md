@@ -7,8 +7,6 @@
 
 ---
 
-### 💡 Tentang Proyek Ini
-> Proyek ini menampilkan simulasi visual dari dua skenario berbeda. GIF pertama menunjukkan proses booting sistem, sedangkan GIF kedua memperlihatkan interaksi menu CRUD yang telah dioptimalkan.
 
 ---
 
