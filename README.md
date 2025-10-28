@@ -1,6 +1,6 @@
 <h2 align="center">I'm just test the gif</h2>
 
 <p align="center">
-  <img src="Animated GIF.gif" style="height: 300px; object-fit: cover;" alt="GIF 1">
-  <img src="chuunibyou demo koi ga shitai manga GIF.gif" style="height: 300px; object-fit: cover;" alt="GIF 2">
+  <img src="Animated GIF.gif" style="height: 400px; object-fit: cover;" alt="GIF 1">
+  <img src="chuunibyou demo koi ga shitai manga GIF.gif" style="height: 400px; object-fit: cover;" alt="GIF 2">
 </p>
