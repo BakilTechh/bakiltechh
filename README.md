@@ -1,4 +1,4 @@
-<h2 align="center">I'm just test the gif</h2>
+<h2 align="center">I'm just test the GIF so yeah</h2>
 
 <p align="center">
   <img src="Animated GIF.gif" style="height: 350px; object-fit: cover;" alt="GIF 1">
