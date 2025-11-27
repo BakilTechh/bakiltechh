@@ -9,7 +9,7 @@
 
 ---
 
-My GitHub 
+I'm new so yeah it is what is it
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakiltechh&layout=compact&theme=tokyonight)
 
