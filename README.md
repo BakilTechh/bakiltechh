@@ -14,7 +14,7 @@ I'm new so yeah it is what is it
 ---
 
 ## 🔥 My Top Languages
-<img src="https://github-readme-stats-bapx.vercel.app/api/top-langs/?username=Bakiltechh&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-bapx.vercel.app/api/top-langs/?username=BakilTechh&layout=compact&theme=tokyonight" />
 
 
 - GitHub: [@Bakiltechh](https://github.com/Bakiltechh)
